@@ -1,0 +1,1 @@
+# Inventory-Heatmap-Stock-Out-Alerts-for-Essential-Goods-AI-for-Good-Snowflake-Open-Innovation
